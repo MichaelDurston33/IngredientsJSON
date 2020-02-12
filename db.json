@@ -1,5 +1,4 @@
-{
-  "prices": {
+"prices": {
     "cabbage": "8",
     "hay": "12",
     "watermelon": "20",
@@ -10,4 +9,3 @@
     "apple": "22",
     "carrot": "18"
   }
-}
