@@ -1,4 +1,11 @@
-"prices": {
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "prices": {
     "cabbage": "8",
     "hay": "12",
     "watermelon": "20",
@@ -8,4 +15,5 @@
     "sunflower": "70",
     "apple": "22",
     "carrot": "18"
+  }
 }
