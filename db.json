@@ -1,11 +1,11 @@
 "prices": {
-    "cabbage": "8",
-    "hay": "12",
-    "watermelon": "20",
-    "oats": "40",
-    "corn": "32",
-    "salt": "8",
-    "sunflower": "70",
-    "apple": "22",
-    "carrot": "18"
+    "cabbage": 8,
+    "hay": 12,
+    "watermelon": 20,
+    "oats": 40,
+    "corn": 32,
+    "salt": 8,
+    "sunflower": 70,
+    "apple": 22,
+    "carrot": 18
   }
